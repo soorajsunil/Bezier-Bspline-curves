@@ -1,1 +1,1 @@
-# Bezier-Bspline-curves
+# Bezier-curves
